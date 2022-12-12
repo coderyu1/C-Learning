@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\C代码库\2022\鹏哥C语言网站作业\Contact\Contact\contact.c(1,1): warning C4828: 文件包含在偏移 0x17b6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Contact.vcxproj -> D:\C代码库\2022\鹏哥C语言网站作业\Contact\x64\Debug\Contact.exe
